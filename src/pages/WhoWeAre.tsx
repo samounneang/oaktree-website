@@ -28,7 +28,7 @@ const Path = () => {
             </p>
           </div>
           <img
-            src="https://images.pexels.com/photos/3184394/pexels-photo-3184394.jpeg"
+            src="/assets/pexels-photo-3184394.jpeg"
             alt="Why We Do What We Do"
             className="w-full md:w-1/2 h-72 md:h-96 object-cover rounded-lg shadow-md"
           />
@@ -39,7 +39,7 @@ const Path = () => {
       <section className="bg-white py-16">
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center gap-8 px-4 sm:px-6 lg:px-8">
           <img
-            src="https://images.pexels.com/photos/6913191/pexels-photo-6913191.jpeg"
+            src="/assets/pexels-photo-6913191.jpeg"
             alt="Our Vision"
             className="w-full md:w-1/2 h-72 md:h-96 object-cover rounded-lg shadow-md"
           />
@@ -66,7 +66,7 @@ const Path = () => {
             </p>
           </div>
           <img
-            src="https://images.pexels.com/photos/3755440/pexels-photo-3755440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+            src="/assets/pexels-photo-3755440.jpeg"
             alt="Our Mission"
             className="w-full md:w-1/2 h-72 md:h-96 object-cover rounded-lg shadow-md"
           />

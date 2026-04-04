@@ -17,7 +17,7 @@ const OurCulture = () => {
           {/* Right Image with grayscale + hover color effect */}
           <div className="lg:w-1/2 relative h-[20rem] overflow-hidden rounded-lg shadow-lg">
             <img
-              src="https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg"
+              src="/assets/pexels-photo-3184339.jpeg"
               alt="Principles"
               className="w-full h-full object-cover rounded-lg grayscale hover:grayscale-0 transition-all duration-700 ease-in-out hover:scale-105"
             />
