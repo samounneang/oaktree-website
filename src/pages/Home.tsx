@@ -1,13 +1,13 @@
-import React from 'react';
-import { ArrowRight, Play, Target, Users, Heart, Building, Lightbulb, Rocket } from 'lucide-react';
-import { Link } from 'react-router-dom';
+//import React from 'react';
+//import { ArrowRight, Play, Target, Users, Heart, Building, Lightbulb, Rocket } from 'lucide-react';
+//import { Link } from 'react-router-dom';
 import Hero from '../components/Hero';
-import About from '../components/About';
-import { useEffect, useRef, useState } from "react";
+//import About from '../components/About';
+//import { useEffect, useRef, useState } from "react";
 import FullVision from '../components/FullVision';
 import ValueSection from '../components/ValueSection';
 import WhyUs from '../components/WhyUs';
-import WhatWebuild from '../components/WhatWebuild';
+//import WhatWebuild from '../components/WhatWebuild';
 import FullStackSupportSection from '../components/YourFullSupport';
 import SeatAtTableSection from '../components/SeatAtTableSection';
 
@@ -69,7 +69,6 @@ const Home = () => {
 
   return (
     <div className="min-h-screen">
-
       <Hero />
       <FullVision />
       <WhyUs />
