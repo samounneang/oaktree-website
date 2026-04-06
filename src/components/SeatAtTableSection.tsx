@@ -54,7 +54,7 @@ const SeatAtTableSection = () => (
       <div className="mt-12 sm:mt-16 text-center">
         <Link
           to="/join-us"
-          className="inline-block bg-green-600 text-white px-6 sm:px-8 py-3 sm:py-4 rounded-full text-base sm:text-lg font-semibold hover:bg-green-700 transition-colors"
+          className="inline-block bg-green-600 text-white px-6 sm:px-8 py-3 sm:py-4 rounded-full text-base sm:text-lg font-medium hover:bg-green-700 transition-colors"
         >
           Join Us <ArrowRight size={20} className="inline-block ml-2" />
         </Link>

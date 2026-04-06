@@ -64,7 +64,7 @@ const FullVision: React.FC = () => {
         </div>
         <Link
           to="/who-we-are/our-path"
-          className="inline-flex items-center text-white px-6 py-3 rounded-full text-lg transition-all duration-300 hover:scale-105 hover:shadow-xl space-x-3 group"
+          className="inline-flex items-center text-white px-6 py-3 font-medium rounded-full text-lg transition-all duration-300 hover:scale-105 hover:shadow-xl space-x-3 group"
           style={{ backgroundColor: "#00c660" }}
         >
           <span>Learn More About Us</span>
