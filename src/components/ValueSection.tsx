@@ -141,7 +141,7 @@ Our decisions and activities are guided by these values.
         <div className="text-center mt-12">
           <Link
             to="/who-we-are/our-culture"
-            className="inline-flex items-center bg-green-600 text-white px-8 py-4 rounded-full font-semibold text-lg hover:bg-green-500 transition-colors space-x-2"
+            className="inline-flex items-center bg-green-600 text-white px-8 py-4 rounded-full font-bold text-lg hover:bg-green-500 transition-colors space-x-2"
           >
             <span>Our Culture</span>
             <ArrowRight size={20} />
