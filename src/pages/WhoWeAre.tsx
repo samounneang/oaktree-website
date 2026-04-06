@@ -66,7 +66,7 @@ const Path = () => {
             </p>
           </div>
           <img
-            src="/assets/pexels-photo-3755440.jpeg"
+            src="/assets/pexels-photo-3755440.webp"
             alt="Our Mission"
             className="w-full md:w-1/2 h-72 md:h-96 object-cover rounded-lg shadow-md"
           />
